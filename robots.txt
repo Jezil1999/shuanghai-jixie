@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace this URL after deployment.
-# Sitemap: https://YOUR-FREE-SITE-URL/sitemap.xml
+Sitemap: https://Jezil1999.github.io/shuanghai-jixie/sitemap.xml
