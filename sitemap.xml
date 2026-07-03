@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace loc with the final deployed site URL after GitHub Pages or Vercel is ready. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR-FREE-SITE-URL/</loc>
+    <loc>https://Jezil1999.github.io/shuanghai-jixie/</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
